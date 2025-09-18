@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield Background -->
+  <path d="M32 2.66699C17.6 2.66699 8.53333 9.60033 8.53333 17.3337C8.53333 27.2003 15.4667 37.3337 32 61.3337C48.5333 37.3337 55.4667 27.2003 55.4667 17.3337C55.4667 9.60033 46.4 2.66699 32 2.66699Z" fill="#512F74"/>
+  <!-- Lock Body -->
+  <path d="M42.6667 28V22.6667C42.6667 18.2484 39.085 14.6667 34.6667 14.6667H29.3333C24.915 14.6667 21.3333 18.2484 21.3333 22.6667V28" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 40.6667C34.5773 40.6667 36.6667 38.5774 36.6667 36C36.6667 33.4227 34.5773 31.3334 32 31.3334C29.4227 31.3334 27.3333 33.4227 27.3333 36C27.3333 38.5774 29.4227 40.6667 32 40.6667Z" fill="white"/>
+  <path d="M32 40.6667V45.3334" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

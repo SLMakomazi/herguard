@@ -41,7 +41,7 @@ const Hero = () => {
         </div>
         <div className="hero-image">
           <img 
-            src="https://placehold.co/600x600/f5f0ff/7F6599/png?text=Hero+Image" 
+            src="/heroImage.png" 
             alt="Woman feeling safe and confident"
             className="hero-img"
           />

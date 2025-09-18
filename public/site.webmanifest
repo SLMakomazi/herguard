@@ -1,0 +1,16 @@
+{
+  "name": "Her Guard",
+  "short_name": "Her Guard",
+  "description": "Women's Self-Defense & Safety Products",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7F6599",
+  "theme_color": "#512F74",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
